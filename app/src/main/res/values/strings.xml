@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daraz Demo</string>
+    <string name="top_shops">Top Shops</string>
+    <string name="shop_categories">Shop Categories</string>
+    <string name="cuisines">Cuisines</string>
+    <string name="food_chemistry">Food Chemistry</string>
+</resources>
