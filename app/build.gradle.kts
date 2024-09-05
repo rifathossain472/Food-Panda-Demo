@@ -52,4 +52,6 @@ dependencies {
 
     implementation(libs.coil)
 
+    implementation(libs.androidx.core.splashscreen)
+
 }
